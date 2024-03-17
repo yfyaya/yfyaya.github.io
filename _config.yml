@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Academic"
 title_separator          : "-"
 name                     : &name "YUFEI ZHANG"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "YUFEI ZHANG"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Jinhai Road 2360, Pudong District, Shanghai"
+  employer         : "Shanghai Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yfyaya AT foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
