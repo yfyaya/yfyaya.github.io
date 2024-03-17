@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic"
+title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "YUFEI ZHANG"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "YUFEI ZHANG"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "School of Computer and Information Engineering"
   location         : "Pudong District, Shanghai"
   employer         : "Shanghai Polytechnic University"
   #uri              : # URL
