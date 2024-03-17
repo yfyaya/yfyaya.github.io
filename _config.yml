@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "YUFEI ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Pudong District, Shanghai"
   employer         : "Shanghai Polytechnic University"
-  uri              : # URL
+  #uri              : # URL
   email            : "yfyaya@foxmail.com" 
 
   # Academic websites
