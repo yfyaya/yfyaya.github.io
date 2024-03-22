@@ -1,7 +1,7 @@
 ---
 title: "Dynamic traveling time forecasting based on spatial-temporal graph convolutional networks"
 collection: Frontiers of Computer Science
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Traveling Time Forecasting, Dynamic Route Planning, Intelligent Transportation System, Spatial Diffusion, Temporal Attention.'
 date: 2023-12-02
 venue: 'Frontiers of Computer Science'
 paperurl: 'http://dx.doi.org/10.1007/s11704-023-2704-x'
