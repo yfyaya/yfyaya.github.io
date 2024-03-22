@@ -4,7 +4,7 @@ collection: Frontiers of Computer Science
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-02
 venue: 'Journal Paper'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](http://dx.doi.org/10.1007/s11704-023-2704-x)'
+paperurl: 'http://dx.doi.org/10.1007/s11704-023-2704-x'
 citation: 'Chen F, Zhang Y, Chen L, et al. Dynamic traveling time forecasting based on spatial-temporal graph convolutional networks[J]. Frontiers of Computer Science, 2023, 17(6): 176615.'
 ---
 
